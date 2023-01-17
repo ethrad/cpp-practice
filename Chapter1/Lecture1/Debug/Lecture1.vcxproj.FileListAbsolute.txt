@@ -1,0 +1,4 @@
+C:\Users\f4asd\Downloads\GameDevPracticePackage20181206\Chapter1\Lecture1\Debug\Lecture1.vcxproj.CopyComplete
+C:\Users\f4asd\Downloads\GameDevPracticePackage20181206\Chapter1\Lecture1\Debug\Lecture1.exe
+C:\Users\f4asd\Downloads\GameDevPracticePackage20181206\Chapter1\Lecture1\Debug\glew32d.dll
+C:\Users\f4asd\Downloads\GameDevPracticePackage20181206\Chapter1\Lecture1\Debug\glfw3.dll
